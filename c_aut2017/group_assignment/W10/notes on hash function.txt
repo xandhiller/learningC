@@ -1,0 +1,7 @@
+What are you gonna parse to the salting -> password string of length MAX_PASSWORD_LENGTH
+pass the string - a different string for each letter of the alphabet depending on what their password
+starts with.
+
+What am i gonna parse to the hash function, it'll be the salted string.
+
+Output will be saved in a bin file and then encrypted.

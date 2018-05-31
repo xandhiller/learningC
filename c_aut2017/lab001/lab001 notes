@@ -1,0 +1,33 @@
+Problem requirement: convert volume of ounces to millilitres
+
+Analyse:
+
+  They're going to have to input a number, possibly with a decimal place
+  scanf of a variable capable of holding decimal places.
+    Q: What variable should I use?
+
+  What if they input a letter? -> Use isdigit function to check if it's
+  a number
+    Q: What are the value outputs for a isdigit function?
+    Q: How will I implement with an if-else function?
+
+  I have to take input, multiply it by the conversion factor then save the
+  variable
+  Then have to output the number
+
+Implement the algorithm:
+
+Pseudocode implementation:
+  Declare variables -> input and output
+
+  printf("Please enter a volume in ounces:\n")
+
+  scanf("%", &variable)
+
+  isdigit(input)
+    if(isdigit = it's a number)
+      then: input * conversion factor = output, & printf("output")
+
+    else (printf("yo wtf that's not a number"))
+
+    return 0;

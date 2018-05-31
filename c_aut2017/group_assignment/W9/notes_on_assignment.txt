@@ -1,0 +1,16 @@
+Take in student data
+Contains student names and numbers, has to be confidential - must be encrypted.
+Has around 50-100 subjects, each with multiple UPASS leaders.
+Has to be able to take and store attendance to a session, store name and student number.
+Also to check whether they're enrolled in the course.
+Users of the program: Data entry, administration/management, statistics for
+students of the subject.
+  Data entry should be able to enter students' number or name to mark them as
+  having attended
+  Administration/Management should be able to add and remove classes as well
+  as have the privileges of Data Entry.
+  Statistics output should be for students who want to see how going to UPASS
+  affects the grades for certain subjects.
+
+
+Pratiksha: Wants to take the lead on the report and perhaps research for encryption.

@@ -1,0 +1,6 @@
+ask for the student id
+check the enrollment database for that subject
+if true search linked list
+if student in linked list: attendance++
+If student not in linked list, call CreateStudent.
+Then attendance++

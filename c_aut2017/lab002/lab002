@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(void)
+{
+  /* Declare input variables */
+  int num1 ='\0';
+  int num2 ='\0';
+
+  printf("Enter the numerator and denominator separated by a space>");
+  scanf("%d\n", );
+}

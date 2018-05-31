@@ -1,0 +1,24 @@
+Only has to have five students
+
+GPA must be 0 >= x <= 4.0
+GPA displays four decimal places and rounds up at the fifth
+The displayed value determines what is too big or too small
+
+The list has two \n escape sequences before it, every time it prints.
+
+
+Dates:
+days <= 31
+month <=12
+Year must be >= 1800 and <=2017
+
+Displaying the results you have to make sure there's no space
+
+'Invalid day' prints on a separate line but then prompts for new information
+on the same line.
+E.g.
+"Enter day>32
+Invalid day. Enter day>"
+
+Don't enter decimal places into the database under day, month or year.
+It will eternally loop.

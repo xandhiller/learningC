@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "cipher"
+
+#define MAX_PASSWORD_LENGTH 70
+
+int main (void)
+{
+  teststring[MAX_PASSWORD_LENGTH]
+  return 0;
+}

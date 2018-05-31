@@ -1,0 +1,13 @@
+You want to take in the head of the list and add to the end of it.
+So they give you the root/head of the list, and you then go to the end of it,
+then once you're there, set the values and create a new struct, set the new
+structs nextp to NULL and return back to main.
+
+1. Go to end of list, using ip.
+2. Set the value once ip is equal to the last node in the list.
+3. create a new struct
+4. set it's ip->next == NULL
+5. exit
+
+No point in setting ip equal to the last node, because that information will
+be lost when we return to the main... right?

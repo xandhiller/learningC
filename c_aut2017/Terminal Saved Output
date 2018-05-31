@@ -1,0 +1,94 @@
+nano
+Last login: Thu May 25 11:56:08 on ttys000
+Alexanders-MacBook-Air:~ alexanderhiller$ nano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6                                         New Buffer                                                                                Modified  
+
+#include <stdio.h>
+
+int main (void)
+{
+        printf("Hello World, this is in nano.\n");
+        return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            [ Color syntax highlighting enabled ]
+^G Get Help               ^O WriteOut               ^R Read File              ^Y Prev Page              ^K Cut Text               ^C Cur Pos
+^X Exit                   ^J Justify                ^W Where Is               ^V Next Page              ^U UnCut Text             ^T To Spell
